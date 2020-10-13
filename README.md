@@ -9,7 +9,7 @@
 
 ## Running Python file
 1. Navigate into the desired directory.
-2. Execute script via ".py".
+2. Execute script via "main.py".
 
 ## Contributing
 1. Fork it (<https://github.com/yourname/yourproject/fork>)
